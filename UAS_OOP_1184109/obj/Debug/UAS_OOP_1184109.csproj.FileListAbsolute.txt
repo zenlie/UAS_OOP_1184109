@@ -1,0 +1,13 @@
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\bin\Debug\UAS_OOP_1184109.exe.config
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.csprojResolveAssemblyReference.cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.Daftar_Ulang_Mahasiswa.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.Home.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.Mahasiswa.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.Input_Program_Studi.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.Properties.Resources.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.updateMahasiswa.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.updateProdi.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.viewMahasiswa.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.viewProdi.resources
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\uas-git\UAS_OOP_1184109\UAS_OOP_1184109\obj\Debug\UAS_OOP_1184109.csproj.GenerateResource.Cache
+C:\Users\jenly\OneDrive\Documents\Visual Studio 2015\Projects\UAS_OOP_1184109\UAS_OOP_1184109\bin\Debug\UAS_OOP_1184109.exe.config
